@@ -1,0 +1,18 @@
+
+1. Functional Testing
+
+Checks whether the system works according to the requirements. It includes:
+	•	Unit Testing – testing individual code modules.
+	•	Integration Testing – verifying interactions between components.
+	•	System Testing – testing the entire system as a whole.
+	•	User Acceptance Testing (UAT) – ensuring the product meets customer expectations.
+
+2. Non-Functional Testing
+
+Evaluates system characteristics such as performance and security:
+	•	Performance Testing – checking speed, load, and stability.
+	•	Security Testing – identifying vulnerabilities in data protection.
+	•	Usability Testing – analyzing the user-friendliness of the interface.
+	•	Compatibility Testing – verifying operation across different devices and platforms.
+
+
